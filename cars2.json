@@ -11,6 +11,16 @@
   },
   {
     "type": "Sedan",
+    "brand": "Audi",
+    "model": "A4",
+    "doors": 4,
+    "gasType": "Diesel",
+    "color": "White",
+    "isNew": true,
+    "horsepower": 190
+  },
+  {
+    "type": "Sedan",
     "brand": "Volkswagen",
     "model": "Golf",
     "doors": 5,
@@ -38,6 +48,26 @@
     "color": "Blue",
     "isNew": true,
     "horsepower": 100
+  },
+  {
+    "type": "Sedan",
+    "brand": "Audi",
+    "model": "A8",
+    "doors": 4,
+    "gasType": "Hybrid",
+    "color": "Silver",
+    "isNew": true,
+    "horsepower": 340
+  },
+  {
+    "type": "Hatchback",
+    "brand": "Fiat",
+    "model": "500L",
+    "doors": 5,
+    "gasType": "Petrol",
+    "color": "Red",
+    "isNew": true,
+    "horsepower": 95
   },
   {
     "type": "Convertible",
