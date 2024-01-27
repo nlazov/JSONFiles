@@ -160,6 +160,16 @@
     "horsepower": 220
   },
   {
+    "type": "Coupe",
+    "brand": "BMW",
+    "model": "428i",
+    "doors": 2,
+    "gasType": "Petrol",
+    "color": "Blue",
+    "isNew": false,
+    "horsepower": 240
+  },
+  {
     "type": "SUV",
     "brand": "Kia",
     "model": "Sportage",
